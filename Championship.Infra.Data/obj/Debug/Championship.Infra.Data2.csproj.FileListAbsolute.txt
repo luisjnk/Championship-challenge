@@ -1,0 +1,3 @@
+C:\projects\Championship\Championship\Championship.Infra.Data2\obj\Debug\Championship.Infra.Data2.csproj.App.config
+C:\projects\Championship\Championship\Championship.Infra.Data2\obj\Debug\Championship.Infra.Data2.csprojAssemblyReference.cache
+C:\projects\Championship\Championship\Championship.Infra.Data2\obj\Debug\Championship.Infra.Data2.csproj.CoreCompileInputs.cache
